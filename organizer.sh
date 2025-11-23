@@ -1,4 +1,4 @@
-#!/bin/bash   # Shebang: tells the system to run this script with Bash
+#!/bin/bash
 
 # Check if "archive" directory exists; if not, create it
 if [ ! -d "archive" ]; then
