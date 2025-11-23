@@ -32,16 +32,11 @@ Run the program:
   python grade_calculator.py
 
 Organizer (Bash)- Ensure you have Bash available (Linux/macOS or Git Bash on Windows).
-- Run the script:
-./organizer.sh
-- All .csv files in the current directory will be archived with timestamps.
-- Check organizer.log for details of actions and file contents.
+  - Run the script:
+    ./organizer.sh
+  - All .csv files in the current directory will be archived with timestamps.
+  - Check organizer.log for details of actions and file contents.
 
-Project Structure├── grade_calculator.py   # Python program for GPA and pass/fail
-├── organizer.sh          # Bash script for archiving CSVs
-├── grades.csv            # Output file (overwritten each run)
-├── archive/              # Directory where timestamped CSVs are stored
-└── organizer.log         # Log file with archive actions and file contents
 Example Output---RESULTS---
 Total Formative: 44.10 / 60.0
 Total Summative: 32.50 / 40.0
