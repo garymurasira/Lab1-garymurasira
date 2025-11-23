@@ -41,7 +41,6 @@ Example Output
 
   Total Formative: 44.10 / 60.0
   Total Summative: 32.50 / 40.0
-  ----------------
   Total Grade: 76.60 / 100
   GPA: 3.8300
   Status: PASS
