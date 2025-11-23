@@ -38,7 +38,7 @@ Organizer (Bash)- Ensure you have Bash available (Linux/macOS or Git Bash on Win
   - Check organizer.log for details of actions and file contents.
 
 Example Output
----RESULTS---
+
   Total Formative: 44.10 / 60.0
   Total Summative: 32.50 / 40.0
   ----------------
