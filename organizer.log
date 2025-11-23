@@ -1,0 +1,12 @@
+========ENTRY LOG========
+2025-11-23 12:11:39: Renamed grades.csv as grades-20251123-121139.csv
+2025-11-23 12:11:39: Moved grades-20251123-121139.csv to archive Directory
+----- Contents Of The File -----
+Assignment,Category,Grade,Weight
+Group Coding Lab,FA,100.0,30.0
+Discussion Forum,FA,45.0,15.0
+General Quiz,FA,49.0,15.0
+Pre-summative,SA,55.0,10.0
+Individual Lab,SA,90.0,30.0
+========END OF ENTRY LOG========
+
