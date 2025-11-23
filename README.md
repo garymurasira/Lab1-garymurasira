@@ -29,8 +29,7 @@ How to Run
 Grade Calculator (Python)
 Make sure you have the Python 3.
 Run the program:
-   ```bash
-   python grade_calculator.py
+  python grade_calculator.py
 
 Organizer (Bash)- Ensure you have Bash available (Linux/macOS or Git Bash on Windows).
 - Run the script:
