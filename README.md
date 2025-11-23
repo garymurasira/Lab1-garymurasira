@@ -37,11 +37,12 @@ Organizer (Bash)- Ensure you have Bash available (Linux/macOS or Git Bash on Win
   - All .csv files in the current directory will be archived with timestamps.
   - Check organizer.log for details of actions and file contents.
 
-Example Output---RESULTS---
-Total Formative: 44.10 / 60.0
-Total Summative: 32.50 / 40.0
-----------------
-Total Grade: 76.60 / 100
-GPA: 3.8300
-Status: PASS
-Resubmission: None
+Example Output
+---RESULTS---
+  Total Formative: 44.10 / 60.0
+  Total Summative: 32.50 / 40.0
+  ----------------
+  Total Grade: 76.60 / 100
+  GPA: 3.8300
+  Status: PASS
+  Resubmission: None
